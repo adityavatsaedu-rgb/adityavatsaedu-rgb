@@ -193,7 +193,10 @@ hacker = {
 <div align="center">
 
 [![HackerOne](https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/aditya_vatsa)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/AdityaVatsa)
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/adityavatsa)
 
 </div>
 
@@ -212,3 +215,4 @@ hacker = {
 ```
 
 </div>
+
