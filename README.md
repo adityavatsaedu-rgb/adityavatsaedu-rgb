@@ -192,7 +192,7 @@ hacker = {
 
 <div align="center">
 
-[![HackerOne](https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/aditya_vatsa) [![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/AdityaVatsa) [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/adityavatsa)
+[![HackerOne](https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/aditya_vatsa) [![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://profile.hackthebox.com/profile/019eef2c-ee8f-72a3-8f10-53f4993df154) [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/adityavatsa)
 
 </div>
 
