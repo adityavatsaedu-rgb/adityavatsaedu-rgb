@@ -17,7 +17,7 @@
 ```python
 hacker = {
     "name"       : "Aditya Vatsa",
-    "location"   : "Pune, India",
+    "location"   : "India",
     "role"       : "Cybersecurity Researcher & Ethical Hacker",
     "OS"         : "Kali Linux 🐉",
     "focus"      : ["Web Security", "Penetration Testing",
