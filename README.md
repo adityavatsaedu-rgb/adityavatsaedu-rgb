@@ -178,14 +178,10 @@ hacker = {
 
 <div align="center">
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityavatsaedu-rgb&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityavatsaedu-rgb&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityavatsaedu-rgb&theme=radical&hide_border=true&background=0d1117)
+<img src="https://github-readme-stats.vercel.app/api?username=adityavatsaedu-rgb&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityavatsaedu-rgb&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="49%" />
 
 </div>
-
 ---
 
 ## 🌐 Connect With Me
